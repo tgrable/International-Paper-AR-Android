@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IP4D</string>
+
+    <string name="title_activity_company">Company</string>
+    <string name="title_activity_privacy">Privacy Policy</string>
+
+    <!--<string name="license">S2aUnmpsc+9+0ZriYR3w/UcuF/CurrY8oN/8aMQ9TE81HnaDFfHFSDAOaLjslluwHBywMF/DtN6J2CjyPBJ8n6S+WEIhVGu7Z7tm5cYbr18ZncLu1dBZp9YVkYjsWIZufXxtdtu+OihB38tLChnrZH/P/8+52eksf9nO6uLcsopTYWx0ZWRfX/y0IxqqLTUYQ9uwSbg40DrdmLsj+zQuimvt/fAT6wYcm2N0Xn6B6/PXcO8RSszblUeRyUw6okLE13q6R+sRfYkgujDJjqqL3wB/rjE84kWTA9chwiYjpmgqDjByUhCIaVntRRmLo7lKP4qGS6sUv6rtlq07Ee1F3h2rAErZAVCrd3CFF4DzLvQiJKAQvmjbafAOsv9WHhV2W5F7gouuzg7zUACEjF2TT2pU39lb6ZH3sY02JBQJTFJvVXth65zEmEk3h07WaxU6UM2vHZSRTBfSVpwsawbpftI+ukU7XcWL1fYSK5MQia2HRwuHUQyciRo0v6lsL+ija6jmecwHLF9+IFxv4csC+IMTXqBLmyECxRvq/EK2YMe3MkugfeegXn8oqJWf3S/TrhKekA8jwUs1z2rq3fJAA2p76N5ZVM7jPnZf5v9C1O9/u51Xf0NdamhRarhc1EzB7C+4ZAkxcDm68yV/AwDtaAQiN6Z2xUebLouFWrPx0DKirAlur2QVyHIlzHXIr6gYhBZMJ23QHggmsDv6qE7im9NniD5Ok8m87tUbeAWTA7h+tj7J96DvDwplKvSOc9Wd1QWaD8MAPZsWcEo0nVjbfg==</string>-->
+    <string name="license">PKEsuNcLgH6OUCEk3fGue3UFD4H6SA99OMsCqXSozZo6PUcvE8F1LX9AQS1M6xAa8V0w+9l/g8m/F0mRCyz6JWk684/NN0HvQIYqy6eb5dX312AO9o8bLpZAA8cPd6S0AN+alQgHnXVdlvWHSU9pOW0CVxejRP6ck2A3p4b9351TYWx0ZWRfXz3Azq7EUTaqzdFT18XPXg2kClHoEfjE829wNe4vnPDpzy68Do6NmwunF/V+bwFRoCKKPFnJxKWvNynIKdDZGVYyeeTzqLeq8R4oPurllGjPgHigcXOjfDsb+qScPQMLU7cG9hM2LExpk1aqqI4djDv1b7zg+YtsYZcx1eopCNL1wanz21oeRlV5FckAvQcdVsQQniB2P6JjTyczNdrBhiSEqec+SQd7sUhG3a01dGMLKcLSr0J1TWGs2na0IZXBq2rGS2F+G5pIFgMQd4krH08D4nsD0KHsjh6h3OgBprjOVPRETbgSyR3dKfIMYsk364qMZc+g9yjmhb7snVozQwv5njTMsYuK8ndIPc/gZx9w6zNQ8SCBkN2JxhYj79Vw1t750RnEzQRgk1qsQx4/Ip0wPDx9HEEdzA4lnCxGONEWdnsJ9CQl1ElBNWa2SlV6l6pb+vi2AeC5Gc83LSq1EBb6ne9XAUN2AI6U+dNhms5HYRctfm7nndA=</string>
+    <string name="company">International Paper is a global leader in the paper and packaging industry manufacturing operations in North America, Europe, Latin American, Asia, and North America.</string>
+    <string name="learn_more">Learn more at www.internationalpaper.com</string>
+    <string name="camera_permission">Sorry, augmented reality doesn\'t work without the camera.</string>
+
+</resources>
